@@ -8,6 +8,10 @@ body {
     color: #F00;
 }
 
+.invalid-field {
+	border: 1px solid #FF0000;
+}
+
 form input[name='occupationOther'] {
     display: none;
 }
